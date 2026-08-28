@@ -12,4 +12,5 @@ I'm a distributed systems engineer in love with data security and minimizing all
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)](https://www.vulkan.org/)
 [<img src="https://github.com/user-attachments/assets/db692314-14ee-42ab-98bd-a67bab8ac09d" height="28" alt="Slang"/>](https://shader-slang.org/)
+
 ~~And some basic storage / message stuff~~
